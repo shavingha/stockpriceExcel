@@ -4,7 +4,6 @@ update China/HK stock price in excel
 支持A股期货数据
 支持汇率数据
 
-TODO：
-1.优化数据获取的性能，降低接口调用次数
-2.解决json获取数据的兼容性问题
+xlsm模板已经不再更新了。 写vba实在太痛苦了。
+xls是用python 写的。 需要自己安装xlwings插件，我也写到bat里面了。 可能会遇到excel版本不兼容的情况。 报issue吧，有时间的时候会修正。
 
